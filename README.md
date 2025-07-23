@@ -3,7 +3,7 @@
 Welcome to the source code of **Vezura ID's Personal Portfolio Website**.  
 This is a simple, modern, and responsive portfolio built to showcase personal branding, services, and contact info.
 
-🔗 **Live Preview:** [https://owner.vezura.web.id](owner.vezura.web.id)
+🔗 **Live Preview:** [https://owner.vezura.web.id](https://owner.vezura.web.id)
 
 ---
 
